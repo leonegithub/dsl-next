@@ -1,4 +1,4 @@
-import SingleProductCounter from "@/app/products/orthodontics/all/[slug]/SingleProductCounter";
+/* import SingleProductCounter from "@/app/products/orthodontics/all/[slug]/SingleProductCounter";
 import { useState } from "react";
 
 interface TableBodyProps {
@@ -49,3 +49,4 @@ export default function TableBody({
     </tbody>
   );
 }
+ */
