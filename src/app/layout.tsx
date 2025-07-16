@@ -10,7 +10,7 @@ import { Analytics } from "@vercel/analytics/react";
 /* import Chatbot from "../components/Chatbot"; */
 
 export const metadata: Metadata = {
-  title: "Leone America",
+  title: "Digital Service Leone",
 };
 
 export default function RootLayout({
